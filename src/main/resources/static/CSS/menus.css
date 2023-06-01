@@ -1,0 +1,110 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+ 
+.header {
+    background-color: black;
+    height: 17%;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    position: fixed;
+}
+ 
+.header .logo
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+    position: fixed;  
+    left: 25px;
+    top: 1%;
+}
+
+#contenido {
+    background: url(https://www.nintenderos.com/wp-content/uploads/2023/04/One-Piece-4.jpg) no-repeat center top;
+    background-size: cover;
+    position: absolute;
+    top: 17%;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+#intro{
+    background: url(https://animeargentina.net/wp-content/uploads/2021/12/one_piece_gol_d_roger.jpg_514966513-1024x768.jpg) no-repeat center top;
+    background-size: cover;
+    position: absolute;
+    top: 17%;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+.texto1{
+    position: absolute;
+    padding: 0px;
+    background-color: white;
+    margin: 5% 0 0 50%
+}
+.youtube1{
+    margin: 5% 10%;
+    padding: 0px;
+}
+
+
+
+#contenido .audio{
+    width: 100px;
+    height: 100px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: 992px;
+    margin: 0 auto;
+}
+ 
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+ 
+.inicio {
+    color: #990000;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 5px;
+    line-height: 90px;
+}
+
+.nav-menu {
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+}
+ .nav-menu-item {
+    font-size: 18px;
+    margin: 0 20px;
+    line-height: 90px;
+    width: max-content;
+}
+ 
+.nav-menu-link {
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+ 
+.nav-menu-link:hover {
+    font-size: 22px;
+    background-color: #990000;
+    transition: 0.7s;
+}
+
+
