@@ -1,0 +1,23 @@
+body{
+   background: url(https://www.nintenderos.com/wp-content/uploads/2023/04/One-Piece-4.jpg) no-repeat center top;
+   background-size: cover; 
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+}
+
+#contenido {
+    
+    position: fixed;
+    top: 17%;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: auto;
+}
+
+#contenido .audio{
+    width: 100px;
+    height: 100px;
+}
+

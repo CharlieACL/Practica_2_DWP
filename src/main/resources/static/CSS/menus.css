@@ -23,47 +23,6 @@ body {
     left: 25px;
     top: 1%;
 }
-
-#contenido {
-    background: url(https://www.nintenderos.com/wp-content/uploads/2023/04/One-Piece-4.jpg) no-repeat center top;
-    background-size: cover;
-    position: absolute;
-    top: 17%;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    overflow: auto;
-}
-
-#intro{
-    background: url(https://animeargentina.net/wp-content/uploads/2021/12/one_piece_gol_d_roger.jpg_514966513-1024x768.jpg) no-repeat center top;
-    background-size: cover;
-    position: absolute;
-    top: 17%;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    overflow: auto;
-}
-
-.texto1{
-    position: absolute;
-    padding: 0px;
-    background-color: white;
-    margin: 5% 0 0 50%
-}
-.youtube1{
-    margin: 5% 10%;
-    padding: 0px;
-}
-
-
-
-#contenido .audio{
-    width: 100px;
-    height: 100px;
-}
-
 .nav {
     display: flex;
     justify-content: space-between;
