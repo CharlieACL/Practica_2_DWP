@@ -6,14 +6,21 @@ body{
    font-family: sans-serif;
 }
 
-.listado{
+.text{
     display: flex ;        
 }
 
-.personajes{
+.cuadro{
     background-color: white;
     width: 150vh;
     margin: 10% 15% 0 15%;
+}
+
+.info{
+    margin: 0 5% 0 5%;
+    font-family: cursive;
+    font-size: 22px;
+    text-align: justify;  
 }
 
 .d{
