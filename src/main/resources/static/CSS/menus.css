@@ -50,13 +50,13 @@ body {
 }
  .nav-menu-item {
     font-size: 18px;
-    margin: 0 15px;
+    margin: 0 12px;
     line-height: 80px;
     width: max-content;
 }
  
 .nav-menu-link {
-    padding: 8px 5px;
+    padding: 8px 1px;
     border-radius: 10px;
 }
  

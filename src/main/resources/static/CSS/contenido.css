@@ -1,13 +1,13 @@
 body{
-   background: url(https://i.pinimg.com/originals/20/d0/32/20d032d38d67882f4cf2fd6d965e23de.jpg) no-repeat center top;
-   background-size: cover;
-   margin: 0;
-   padding: 0;
-   font-family: sans-serif;
+    background: url(https://i.pinimg.com/originals/20/d0/32/20d032d38d67882f4cf2fd6d965e23de.jpg) no-repeat center top;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
 }
 
 .text{
-    display: flex ;        
+    display: flex ;
 }
 
 .cuadro{
@@ -16,35 +16,78 @@ body{
     margin: 10% 15% 0 15%;
 }
 
+.cuadro2{
+    background-color: white;
+    width: 180vh;
+    height: 75vh;
+    margin: 10% 15% 0 5%;
+}
+
 .info{
     margin: 0 5% 0 5%;
     font-family: cursive;
     font-size: 22px;
-    text-align: justify;  
+    text-align: justify;
 }
 
 .d{
-  font-size: 22px;
+    font-size: 22px;
 }
 
 .imgchar{
-    position: static; 
+    position: static;
     padding: 0;
     margin: 5% 0 0 8%;
-}  
+}
 
 .imgchar2{
-    position: static; 
+    position: static;
     padding: 0;
     margin: 5% 0 0 10%;
 }
 
 .imgchar3{
-    position: static; 
+    position: static;
     padding: 0;
     margin: 5% 0 0 13%;
 }
 
+.top{
+    margin: 0 0 3% 5%;
+}
 
 
+.lyrics{
+    font-size: 15px;
+    margin: 0 8% 2% 5%;
+    padding: 0;
+}
+
+.imgart{
+    margin: 17% 5% 0 0;
+    padding: 0;
+}
+
+
+.op{
+    margin: 0 0 0 3%;
+}
+
+.verp{
+    font-size: 25px;
+    margin: 0 0 0 25%;
+    color: #0099ff;
+}
+
+.verpe{
+    font-size: 25px;
+    margin: 0 0 0 30%;
+    color: #0099ff;
+}
+
+.verpel{
+    font-size: 25px;
+    margin: 0 0 0 24%;
+    color: #0099ff;
+}
 
