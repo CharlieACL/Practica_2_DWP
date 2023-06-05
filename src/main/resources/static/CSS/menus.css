@@ -66,4 +66,16 @@ body {
     transition: 0.7s;
 }
 
+.footer {
+    background-color: black;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    height: 5%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
 

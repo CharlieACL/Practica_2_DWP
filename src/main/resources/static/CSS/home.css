@@ -25,9 +25,9 @@ body{
     position: absolute;
     background: black;
     width: 300px;
-    height: 320px;
+    height: 325px;
     padding: 0 0 0 5px;
-    top: 40%;
+    top: 32%;
     right:2%;
     color: white;   
 }
