@@ -79,15 +79,45 @@ body{
     color: #0099ff;
 }
 
+.verp:hover{
+    color: yellowgreen;
+    transition: 0.7s;
+}
+
+.verp:visited{
+    color: purple;
+    transition: 0.7s;
+}
+
 .verpe{
     font-size: 25px;
     margin: 0 0 0 30%;
     color: #0099ff;
 }
 
+.verpe:hover{
+    color: yellowgreen;
+    transition: 0.7s;
+}
+
+.verpe:visited{
+    color: purple;
+    transition: 0.7s;
+}
+
 .verpel{
     font-size: 25px;
     margin: 0 0 0 24%;
     color: #0099ff;
+}
+
+.verpel:hover{
+    color: yellowgreen;
+    transition: 0.7s;
+}
+
+.verpel:visited{
+    color: purple;
+    transition: 0.7s;
 }
 
